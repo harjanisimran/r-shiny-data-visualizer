@@ -35,12 +35,13 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
 - **Language:** R  
 - **Framework:** Shiny  
 - **R Libraries Used:**
-  - `shiny` – for building the app  
-  - `tidyverse` – for data manipulation  
-  - `readr` & `readxl` – for reading `.csv` and `.xlsx` files  
-  - `ggplot2` – for plotting (scatter, box, bubble, bar)  
+  - `shiny` – for building the interactive web app  
+  - `plotly` – for creating interactive plots (scatter, box, bubble, bar)  
+  - `readxl` – for reading `.xlsx` Excel files  
+  - `tidyverse` – for data wrangling and manipulation  
   - `DT` – for rendering interactive data tables  
-
+  - `vroom` – for fast reading of large `.csv` files  
+ 
 ---
 
 ## 📊 Results:
