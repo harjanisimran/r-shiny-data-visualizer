@@ -1,14 +1,14 @@
-# 📊 Project Title:  
+#  Project Title:  
 **Interactive Shiny Dashboard for Custom Data Analysis**
 
 ---
 
-## 📝 Description:
+##  Description:
 This project showcases an **interactive dashboard built using R and Shiny**, designed to visualize and analyze **user-uploaded datasets**. Whether you're working with `.csv` or `.xlsx` files, the dashboard allows you to filter, summarize, and explore your data with ease—no coding required. It’s a versatile tool for students, educators, analysts, and professionals seeking quick, actionable insights.
 
 ---
 
-## 🚀 Key Features:
+##  Key Features:
 - Upload and analyze any **CSV** or **Excel (XLSX)** file  
 - Automatically detects numeric and categorical columns  
 - Provides multiple visual outputs:
@@ -21,14 +21,14 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
 
 ---
 
-## 📁 Files:
+## Files:
 - `interactive_dashboard_app.R` – R Shiny application script  
 - `sample_data.csv` – Example dataset for testing  
 - `dashboard_preview.png` – Screenshot of the dashboard interface  
 
 ---
 
-## 🧰 Requirements:
+##  Requirements:
 
 - **Language:** R  
 - **Framework:** Shiny  
