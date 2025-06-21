@@ -26,7 +26,7 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
 - `ui.R` – Defines the layout and user interface elements of the dashboard  
 - `server.R` – Contains the server logic for data handling and rendering outputs  
 - `sample_data.csv` – Sample file for upload testing  
-- `dashboard_preview.png` – Screenshot of the app interface  
+- `Shinny_app.png` – Screenshot of the app interface  
 - **Note:** The app also loads **default data (`mtcars`)** for quick visualization when no file is uploaded  
 ---
 
