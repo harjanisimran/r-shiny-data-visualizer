@@ -20,12 +20,14 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
 - Clean, user-friendly interface built in R Shiny  
 
 ---
-
-## Files:
-- `interactive_dashboard_app.R` – R Shiny application script  
-- `sample_data.csv` – Example dataset for testing  
-- `dashboard_preview.png` – Screenshot of the dashboard interface  
-
+## 📁 Files:
+- `app.R` – Combined Shiny app file (can be run independently for full functionality)  
+- `global.R` – Initializes the app by loading libraries, shared functions, and default data  
+- `ui.R` – Defines the layout and user interface elements of the dashboard  
+- `server.R` – Contains the server logic for data handling and rendering outputs  
+- `sample_data.csv` – Sample file for upload testing  
+- `dashboard_preview.png` – Screenshot of the app interface  
+- **Note:** The app also loads **default data (`mtcars`)** for quick visualization when no file is uploaded  
 ---
 
 ##  Requirements:
