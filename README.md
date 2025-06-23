@@ -20,7 +20,7 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
 - Clean, user-friendly interface built in R Shiny  
 
 ---
-## 📁 Files:
+## Files:
 - `app.R` – Combined Shiny app file (can be run independently for full functionality)  
 - `global.R` – Initializes the app by loading libraries, shared functions, and default data  
 - `ui.R` – Defines the layout and user interface elements of the dashboard  
@@ -44,7 +44,7 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
  
 ---
 
-## 📊 Results:
+## Results:
 - Users can upload any `.csv` or `.xlsx` dataset for visualization  
 - Real-time interactive charts:
   - Scatter plots for correlation insights  
@@ -56,7 +56,7 @@ This project showcases an **interactive dashboard built using R and Shiny**, des
 
 ---
 
-## 🧾 Conclusion:
+## Conclusion:
 This Shiny dashboard offers a **code-free, flexible data analysis tool** that supports a wide variety of visualizations. It's ideal for quick data exploration across industries—whether for research, reporting, or teaching. Fully supports `.csv` and `.xlsx` files.
 
 ---
